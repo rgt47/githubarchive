@@ -102,7 +102,7 @@ The following considerations motivated this approach:
 
 Corrections and alternative approaches are welcome.
 
-![A workspace ready for a focused archival session.](media/images/placeholder-coffee-01.jpg){.img-fluid}
+![A workspace ready for a focused archival session.](media/images/ambiance1.png){.img-fluid}
 
 # Prerequisites and Setup
 
